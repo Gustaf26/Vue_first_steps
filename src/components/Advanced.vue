@@ -2,7 +2,7 @@
   
   <div>
     <ul>
-        <li>{{ int }}</li>
+        <li>{{ ant }}</li>
       </ul>
 
   </div>
@@ -11,9 +11,9 @@
 <script>
 
 export default {
-  name: 'Intermediate',
+  name: 'Advanced',
   props: 
-    ['int'],
+    ['ant'],
   
   data() {
     return {
